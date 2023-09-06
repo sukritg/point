@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED  ON)
 add_library(libvector INTERFACE)
 target_sources(libvector PUBLIC vector.h)
 
-install(TARGETS libvector DESTINATION lib)
-install(FILES vector.h DESTINATION include)
+install(TARGETS libvector DESTINATION lib/vector)
+install(FILES vector.h DESTINATION include/vector)
