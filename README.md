@@ -1,2 +1,2 @@
-# library-template
-The project is starting point for creating library.
+# Vector library
+The project is a fundamental library incorporating the concept of Vectors.
